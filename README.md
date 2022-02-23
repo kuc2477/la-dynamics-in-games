@@ -1,1 +1,3 @@
-# la-dynamics-in-games
+# On Convergence of Lookahead in Smooth Games
+
+TBA
